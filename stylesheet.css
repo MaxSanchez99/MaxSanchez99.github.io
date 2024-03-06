@@ -1,0 +1,54 @@
+
+
+h1 {
+  color: black;
+  font-size: 50px;
+}
+
+img {
+    width: 25%
+}
+
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: red
+}
+
+.Title {
+    text-align: center;
+}
+
+.intro {
+    font: 14px;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+}
+
+.About {
+    text-align: center;
+    margin-top: 70px;
+}
+
+#hobbies {
+    font: 14px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#heading {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+    background-color: darkgray;
+}
+
+
+
+
